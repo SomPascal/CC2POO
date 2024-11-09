@@ -1,0 +1,24 @@
+[33mcommit 9a8ebb0a5f0760c157b569db5199a2a44fd0d9fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ba36672 ec7e76f
+Author: SomPascal <somfuncky8@gmail.com>
+Date:   Sat Nov 9 12:59:22 2024 +0100
+
+    commit
+
+[33mcommit ba36672ef6673b0e037dccd9990718cc9ca173f8[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: SomPascal <somfuncky8@gmail.com>
+Date:   Sat Nov 9 12:20:08 2024 +0100
+
+    base program
+
+[33mcommit 93c8265ec47b59d8eabf5db3cdf0d7b605d8f17a[m
+Author: SomPascal <somfuncky8@gmail.com>
+Date:   Sat Nov 9 12:19:36 2024 +0100
+
+    gitignore
+
+[33mcommit ec7e76ff58ce49f96565dd13a6470961f609acaf[m
+Author: SomPascal <98778156+SomPascal@users.noreply.github.com>
+Date:   Sat Nov 9 10:53:43 2024 +0100
+
+    Initial commit
