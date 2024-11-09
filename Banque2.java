@@ -10,6 +10,7 @@ public class Banque2
         System.out.println("Client 1:");
         Client client1 = setClient(scanner);
 
+        scanner.nextLine();
         System.out.println("\nClient 2:");
         Client client2 = setClient(scanner);
 
